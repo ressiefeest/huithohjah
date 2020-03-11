@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://siewahyee.deboradifonzo.de/sitemap.xml
